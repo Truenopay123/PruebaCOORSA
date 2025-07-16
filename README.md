@@ -1,7 +1,7 @@
 # Proyecto CRUD
 Este proyecto es una aplicación full-stack con un backend y un frontend, diseñada para gestionar diversas entidades a través de operaciones CRUD (Crear, Leer, Actualizar, Eliminar). La aplicación incluye las siguientes características principales:
 
-# Desarrolador
+# Desarrollador
 Bryan Axel Cortes Cortes.
 
 ## Backend
